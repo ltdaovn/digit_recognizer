@@ -1,0 +1,1 @@
+copy /y build\app\outputs\flutter-apk\app-armeabi-v7a-release.apk apk\digit_recognizer.apk
